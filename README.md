@@ -6,7 +6,7 @@ We used NodeJS for simplicity but any language that can create a HTTP server wil
 
 ## How this works?
 
-This repo contains two fly apps: `fly-replay-app` and `fly-replay-app`. The blog app doesn't need to know anything about how Fly-Replay works, 
+This repo contains two fly apps: `fly-replay-app` and `fly-replay-blog`. The blog app doesn't need to know anything about how Fly-Replay works, 
 the real magic happens in `fly-replay-app`.
 
 At `fly-replay-app` [index.js](https://github.com/lubien/fly-replay-demo/blob/ca0a448205314214206ffe8ffe2d824beb69bf03/replay-app/index.js#L5-L8) 
